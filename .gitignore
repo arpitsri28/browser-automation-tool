@@ -1,0 +1,45 @@
+# Secrets and env
+.env
+*.env
+.env.*
+*.key
+*.pem
+
+# Browser profiles / caches
+profile/
+profiles/
+user_data/
+user-data-dir/
+playwright/.cache/
+ms-playwright/
+chromium-cache/
+
+# Logs, screenshots, artifacts
+logs/
+*.log
+screenshots/
+videos/
+traces/
+artifacts/
+runs/
+bbox_img/
+
+# Python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Misc
+*.sqlite
+
+observations.md
