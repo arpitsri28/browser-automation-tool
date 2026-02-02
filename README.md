@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # browser-automation-tool
 =======
 # VLM GitHub Releases Navigator
@@ -117,4 +117,4 @@ Annotated images (bbox overlays) are for **debug only** and are never used as mo
 - Default limits: max steps = 25, max retries per stage = 3
 - Run headed with `--headed` to visually debug.
 - If you need slower interactions, adjust `slow_mo_ms` or `action_delay_ms` in `tools/browser.py`.
->>>>>>> 2125778 (Initial commit)
+
